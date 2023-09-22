@@ -1,1 +1,3 @@
-# cicd-demo
+# README
+
+Simple maven dependency
